@@ -29,6 +29,4 @@ numeros.insert(-2, 20)
 print(numeros)
 
 
-
-
 time.sleep(3)
